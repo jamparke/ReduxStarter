@@ -16,7 +16,7 @@ class BookList extends Component {
   }
   render () {
     return (
-      <ul className='list-groupo col-sm-4'>
+      <ul className='list-group col-sm-4'>
         {this.renderList()}
       </ul>
     )
